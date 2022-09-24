@@ -373,7 +373,7 @@ namespace Array1
             {
                 result = x - b;
             }
-            if (a.Contains('+'))
+            if (a.Contains('+'))//ee
             {
                 result = x + b;
             }
